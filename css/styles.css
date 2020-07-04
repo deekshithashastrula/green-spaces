@@ -7640,6 +7640,10 @@ button.bg-dark:focus {
 
 .p-0 {
   padding: 0 !important;
+  padding-top: 4.5rem !important;
+}
+.p-100 {
+  padding-top: 5rem !important;
 }
 
 .pt-0,
@@ -10144,7 +10148,7 @@ header.masthead h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(244, 98, 58, 0.9);
+  background: rgba(47, 194, 47, 0.9);
   transition: opacity 0.25s ease;
   text-align: center;
 }
